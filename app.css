@@ -1,0 +1,20 @@
+.container{
+    height: 400px;
+    overflow: hidden;
+    margin: auto;
+    border-radius: 17px;
+    /* background-color: #4ADFCC; */
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+    url("bg.JPG"); 
+     
+    
+
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+    padding:10px;
+    color:white;
+    box-shadow: 2px 2px 2px 2px #E0E0E0;
+    text-align: center;
+    
+}
